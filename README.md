@@ -186,8 +186,6 @@ java -jar target/literalura-app-0.0.1-SNAPSHOT.jar
 2025 - LiterAlura📖☕
 ---
 ---
-README
-
 # PROJECT LiterAlura📚
 
 (English)
