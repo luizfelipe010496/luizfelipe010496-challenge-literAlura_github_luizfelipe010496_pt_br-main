@@ -183,12 +183,13 @@ java -jar target/literalura-app-0.0.1-SNAPSHOT.jar
 ---
 ## 📝 Licença
 
+(License)  
+
 <p>Distribuído sob a licença pública livre (No License).</p>
+
 2025 - LiterAlura📖☕
 ---
----
----
----
+
 # PROJECT LiterAlura📚
 
 (English)
