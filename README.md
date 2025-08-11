@@ -90,7 +90,7 @@ mvn spring-boot:run
 - 🖥 **Spring Boot 3+**
 - 📦 **Spring Data JPA**
 - 🗄 **PostgreSQL**
--  - 📜 **Jackson/Gson** para parse de JSON
+- 📜 **Jackson/Gson** para parse de JSON
 - 🔌 **HttpClient** (Java nativo) para chamadas à API
 - 🌐 **Gutendex API** ([https://gutendex.com/](https://gutendex.com/)) - API externa de consumida! Consta um imagem:
  
@@ -221,7 +221,11 @@ Below are the main features and core logic in the `Principal.java` file and asso
 
 > Since this is a terminal project, it does not have a graphical interface (GUI), but rather command-line interaction (CLI). The menu is displayed directly in the console with numbered options for easy navigation. If you want a more predictable stdin experience during development, run via terminal/console using `mvn spring-boot:run` instead of your IDE's "Run" button, as the IDE run window may not reliably handle stdin. Example image:
 
-![[image_2025-08-08_14-27-46.png]]
+
+
+<img width="1007" height="565" alt="image_2025-08-08_14-03-55" src="https://github.com/user-attachments/assets/2d97a78b-222d-4399-99f9-39e5e4b56997" />
+
+
 
 
 ## ▶️ How to Run the Application
