@@ -33,7 +33,8 @@ Projeto desenvolvido durante o curso da **Alura**, no programa **Oracle Next Edu
 
 > Por ser um projeto de terminal, não possui interface gráfica (GUI), mas sim interação por linha de comando (CLI). O menu é exibido diretamente no console com opções numeradas para fácil navegação. A interação é feita por **linha de comando (CLI)**, com menu numerado para facilitar a navegação e execução das opções. Se desejar uma experiência mais previsível de entrada ("stdin") durante o desenvolvimento, prefira rodar pelo terminal/console com `mvn spring-boot:run` em vez de usar o botão "Run" da IDE, pois o "Run window" nem sempre entrega "stdin" de forma confiável. Constando uma imagem:
 
-![[image_2025-08-08_14-03-55.png]]
+<img width="1007" height="565" alt="image_2025-08-08_14-03-55" src="https://github.com/user-attachments/assets/f3a8571a-0ee7-4af7-8c01-6ecd6bdc8eb0" />
+
 
 ---
 ## ▶️ Como rodar a aplicação
