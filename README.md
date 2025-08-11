@@ -61,7 +61,7 @@ Projeto desenvolvido durante o curso da **Alura**, no programa **Oracle Next Edu
 3. Abra no **IntelliJ IDEA** (ou outra IDE Java com suporte a Maven).
 
 4. Configure as variáveis de ambiente para acesso ao PostgreSQL:
-   - **Windows (CMD/PowerShell)**:
+- **Windows (CMD/PowerShell)**:
 ```
 setx DB_URL "jdbc:postgresql://localhost:5432/literalura"
 setx DB_USER "postgres"
@@ -249,7 +249,7 @@ Below are the main features and core logic in the `Principal.java` file and asso
 1. Open in **IntelliJ IDEA** (or another Maven-compatible Java IDE).
 
 2. Set environment variables for PostgreSQL access:
-   - **Windows (CMD/PowerShell)**:
+- **Windows (CMD/PowerShell)**:
 ```
 setx DB_URL "jdbc:postgresql://localhost:5432/literalura"
 setx DB_USER "postgres"
